@@ -1,0 +1,7 @@
+.env
+.DS_Store
+.breakpoints
+*__pycache__
+*.db
+*.json
+log.txt
